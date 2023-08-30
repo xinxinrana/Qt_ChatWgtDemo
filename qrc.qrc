@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/9adba16ebf69773e136f3046c1c73fc9.jpeg</file>
+        <file>icons/449a7fc92a6a64d240caaeaf0b829752.jpeg</file>
+        <file>icons/8475d1501822614d31b1fd111cb973dc.jpeg</file>
+        <file>icons/0249609d245c586006e6a9b87b621831.jpeg</file>
+        <file>icons/4603288edf898d7b1db01ad76f1c8057.jpeg</file>
+        <file>icons/f2f39fa5844d0d39a2c5e9d9e1a7f70f.jpeg</file>
+        <file>ChatWgtItems/chatwgtitemstyle.qss</file>
+        <file>chat.png</file>
+    </qresource>
+</RCC>
